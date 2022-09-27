@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... basic coding
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...projects on data science and AI
-- 📫 How to reach me ...here my insta:-https://www.instagram.com/sabhya__ladka/
+- 📫 How to reach me ...here my insta:-https://www.instagram.com/_who_is_aahkash
 
 <!---
 Grimiz01/Grimiz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
